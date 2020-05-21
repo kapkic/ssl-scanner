@@ -1,4 +1,4 @@
-# Foobar
+# SSL-Scanner
 
 SSL-Scanner is a Python snippet for checking SSL versions of websites.
 
